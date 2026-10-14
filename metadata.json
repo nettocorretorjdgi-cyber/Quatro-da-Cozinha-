@@ -1,0 +1,6 @@
+{
+  "name": "KDS Cozinha - Painel de Gerenciamento",
+  "description": "Painel de Gerenciamento da Cozinha em tempo real para pedidos de autoatendimento integrado com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
